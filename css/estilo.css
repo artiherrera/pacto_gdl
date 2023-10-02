@@ -1,0 +1,23 @@
+/* estilo.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin: auto;
+    width: 50%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px #ccc;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+}
